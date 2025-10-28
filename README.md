@@ -10,7 +10,6 @@
 Neste laboratório, você vai aprender a:
 
 - Criar e acessar uma instância Linux (EC2) na AWS.  
-- Entender os conceitos de **VPC, Subnet, Security Group, Route Table e chaves RSA**.  
 - Acessar sua máquina de forma segura via **SSH** e **Session Manager**.  
 - Utilizar comandos essenciais do Linux para monitorar, investigar e resolver problemas.  
 - Adotar **boas práticas de segurança** em cada etapa.
